@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
-#include <algorithm> // Para lower_bound
-#include <cstdio>   // Para scanf e printf
+#include <algorithm> 
+#include <cstdio>   
 
 using namespace std;
 
